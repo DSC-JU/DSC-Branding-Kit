@@ -1,0 +1,155 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: GoogleDev_EcoSystemTwitterBanners.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 1500 px x 500 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Google Sans Regular (OTF)
+Roboto Mono (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/danielnicholas/Desktop/_Projects/_GoogleDevelopers/_BrandingReFresh/_Working/_Rd7/_Assets/GOOGLE_DevExpertsSummit2018_print_0431.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 41329K, 3600 by 2939 pixels
+Dimensions: 1136.5 by 927.826 points 
+Resolution: 228.069 by 228.069 pixels per inch
+
+
+/Users/danielnicholas/Desktop/_Projects/_GoogleDevelopers/_BrandingReFresh/_Working/_Rd7/_Assets/io18_79.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 23747K, 3020 by 2013 pixels
+Dimensions: 851.584 by 567.629 points 
+Resolution: 255.336 by 255.336 pixels per inch
+
+
+/Users/danielnicholas/Desktop/_Projects/_GoogleDevelopers/_BrandingReFresh/_Working/_Rd7/_Assets/io18_79.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 23747K, 3020 by 2013 pixels
+Dimensions: 851.584 by 567.629 points 
+Resolution: 255.336 by 255.336 pixels per inch
+
+
+/Users/danielnicholas/Desktop/_Projects/_GoogleDevelopers/_BrandingReFresh/_Assets/IO_19_Tues_Keynote_0065.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 25030K, 3100 by 2067 pixels
+Dimensions: 790.39 by 527.012 points 
+Resolution: 282.392 by 282.392 pixels per inch
+
+
+/Users/danielnicholas/Desktop/_Projects/_GoogleDevelopers/_BrandingReFresh/_Working/_Rd7/_Assets/io18_137.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 30789K, 3020 by 2610 pixels
+Dimensions: 639.381 by 552.577 points 
+Resolution: 340.079 by 340.079 pixels per inch
+
+
+/Users/danielnicholas/Desktop/_Projects/_GoogleDevelopers/_BrandingReFresh/_Working/_Rd7/_Assets/Screen Shot 2019-06-13 at 12.44.40 PM.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 16028K, 2822 by 1454 pixels
+Dimensions: 642.424 by 331.001 points 
+Resolution: 316.277 by 316.277 pixels per inch
+
+
+/Users/danielnicholas/Desktop/_Projects/_GoogleDevelopers/_BrandingReFresh/_Working/_Rd7/_Assets/Screen Shot 2019-06-13 at 12.44.40 PM.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 16028K, 2822 by 1454 pixels
+Dimensions: 642.424 by 331.001 points 
+Resolution: 316.277 by 316.277 pixels per inch
+
+
+/Users/danielnicholas/Desktop/_Projects/_GoogleDevelopers/_BrandingReFresh/_Working/_Rd7/_Assets/IO_19_Tues_Afternoon_4948.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 25030K, 2067 by 3100 pixels
+Dimensions: 658.894 by 988.182 points 
+Resolution: 225.869 by 225.869 pixels per inch
+
+
+/Users/danielnicholas/Desktop/_Projects/_GoogleDevelopers/_BrandingReFresh/_Assets/IO_19_Tues_Keynote_0065.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 25030K, 3100 by 2067 pixels
+Dimensions: 790.39 by 527.012 points 
+Resolution: 282.392 by 282.392 pixels per inch
+
+
+/Users/danielnicholas/Desktop/_Projects/_GoogleDevelopers/_BrandingReFresh/_Working/_Rd7/_Assets/io18_137.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 30789K, 3020 by 2610 pixels
+Dimensions: 639.381 by 552.577 points 
+Resolution: 340.079 by 340.079 pixels per inch
+
+
+/Users/danielnicholas/Desktop/_Projects/_GoogleDevelopers/_BrandingReFresh/_Working/_Rd7/_Assets/IO_19_Tues_Keynote_1905.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 30225K, 3100 by 2496 pixels
+Dimensions: 811.093 by 653.06 points 
+Resolution: 275.184 by 275.184 pixels per inch
+
+
+/Users/danielnicholas/Desktop/_Projects/_GoogleDevelopers/_BrandingReFresh/_Working/_Rd7/_Assets/IO_19_Tues_Afternoon_4948.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 25030K, 2067 by 3100 pixels
+Dimensions: 658.894 by 988.182 points 
+Resolution: 225.869 by 225.869 pixels per inch
+
+
+/Users/danielnicholas/Desktop/_Projects/_GoogleDevelopers/_BrandingReFresh/_Working/_Rd7/_Assets/io18_137.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 30789K, 3020 by 2610 pixels
+Dimensions: 639.381 by 552.577 points 
+Resolution: 340.079 by 340.079 pixels per inch
